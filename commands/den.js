@@ -1,0 +1,2 @@
+deneme
+console.log("deneme");
